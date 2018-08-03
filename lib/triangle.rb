@@ -23,7 +23,7 @@ class Triangle
 end
 
   class TriangleError < StandardError 
-    
+    "That triangle is illegal."
   end   
   
   
